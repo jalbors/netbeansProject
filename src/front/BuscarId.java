@@ -60,7 +60,8 @@ public class BuscarId extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("Introduce el id a buscar");
+        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
+        jLabel1.setText("Introduce el id a buscar:");
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {

@@ -21,7 +21,7 @@ public class Front extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-       new NewJFrame().setVisible(true);
+       new Anyadir().setVisible(true);
     }
 
     /**

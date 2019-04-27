@@ -124,7 +124,7 @@ public class Editar extends javax.swing.JFrame {
         jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/images/edi.jpg"))); // NOI18N
 
         jLabel9.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jLabel9.setText("Editar usuario");
+        jLabel9.setText("Editar usuario:");
 
         jLabel10.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel10.setText("Introduzca los datos a editar de: ");
