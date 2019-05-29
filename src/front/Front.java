@@ -21,7 +21,7 @@ public class Front extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-       new Anyadir().setVisible(true);
+       new Editar().setVisible(true);
     }
 
     /**
